@@ -1,15 +1,15 @@
 ---
-name: Tails Azimuth
+name: Zohidbek Mengliboyev
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Full Stack Developer | .NET & Angular
+company: Single Integrator - UZINFOCOM
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+instagram: https://www.instagram.com/zohidbek_mengliboyev/
+linkedin: https://www.linkedin.com/in/zohidbek-mengliboyev/
+github: https://github.com/zohidbek-mengliboyev
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Zohidbek Mengliboyev is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
 
 He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
 
