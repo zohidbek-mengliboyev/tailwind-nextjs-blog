@@ -1,14 +1,14 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'Zohidbek\'s Coding Journey',
   author: 'Zohidbek Mengliboyev',
-  headerTitle: 'TailwindBlog',
+  headerTitle: '@uzrivojcoder',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  //siteLogo: '/static/images/logo.png',
+  image: '/static/images/photo.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'uzrivojcoder@gmail.com',
   github: 'https://github.com/zohidbek-mengliboyev',
