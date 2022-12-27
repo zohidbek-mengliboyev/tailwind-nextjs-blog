@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'uzrivojcoder@gmail.com',
+  github: 'https://github.com/zohidbek-mengliboyev',
+  telegram: 'https://t.me/zohidbek_mengliboyev',
+  instagram: 'https://www.instagram.com/zohidbek_mengliboyev/',
+  youtube: 'https://www.youtube.com/channel/UCk-z2Yn09SUJOkN2tucCxxg',
+  linkedin: 'https://www.linkedin.com/in/zohidbek-mengliboyev/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
